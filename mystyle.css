@@ -1,0 +1,18 @@
+.my-information{
+    text-align : center;
+}
+.skillAndEducation{
+    background-color: orange;
+    border: 1px solid black;
+    padding: 12px;
+    width: 400px;
+}
+h1{
+    color: blue;
+    font-style: verdana;
+}
+p{
+    color: red;
+    font-style: courier;
+    font-size: 14px;
+}
